@@ -56,5 +56,6 @@ def test_place_is_not_empty():
     #second change is done for github
     #third change is done for github but it is not tracked
     #forth change is done
-def issuegenerated()
-return false
+
+def mahsatest():
+    return false
